@@ -1,0 +1,11 @@
+#AbinBev-Bees-Environment-variables
+#updated on 03 Nov 2022
+
+AZUREUSER1=azureadmin@eykinjal.onmicrosoft.com
+AZUREUSERPWD1=TestDrill@2022
+
+#gitcode Access Details
+
+username=gitcoder-abinbev
+pwd=Gitcoder1200@(
+recovery mail = gitcoder.abinbev@gmail.com
